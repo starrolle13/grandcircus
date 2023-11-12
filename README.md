@@ -77,5 +77,3 @@ If you'd like to contribute to the project, please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize the steps based on the specifics of your project. Make sure to provide clear and concise instructions, and update the paths and URLs according to your project structure and choices.
